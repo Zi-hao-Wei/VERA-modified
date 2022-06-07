@@ -1,3 +1,6 @@
 __pycache__/
 .DS_Store
 .idea/
+data/
+saved/
+saved_models/
